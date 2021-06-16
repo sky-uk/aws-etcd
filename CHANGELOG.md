@@ -1,3 +1,7 @@
+# v2.3.0
+
+* Update base alpine image from 3.9 to 3.12.
+
 # v2.2.0
 
 * Add support for discovering nodes via an SRV record.
